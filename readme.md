@@ -5,6 +5,9 @@ The **ResourceSharingRewards** smart contract is a decentralized platform that a
 
 ## Contract Address
 0xcad42556112e64a9ea8358ee3ad36526db71ffbc
+![Uploading Screenshot 2024-12-21 143028.png…]()
+
+
 
 ## Project Vision
 The vision of the **ResourceSharingRewards** project is to foster a decentralized economy of knowledge and resources. By rewarding users who contribute valuable content or resources, the platform aims to create an ecosystem where content sharing is incentivized, and users are encouraged to actively contribute and collaborate. The system can be applied in various fields such as education, open-source development, and knowledge sharing.
